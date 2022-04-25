@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "express": "^4.17.3"
-  }
+  },
+  "name": "proyecto_7",
+  "description": "Proyecto 7 Semana 3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelDavidFR/express_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelDavidFR/express_api/issues"
+  },
+  "homepage": "https://github.com/AngelDavidFR/express_api#readme"
 }
